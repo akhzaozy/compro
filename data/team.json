@@ -1,0 +1,63 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Andi Raka Inzagi Sagaji",
+      "position": "Komisaris",
+      "level": 1
+    },
+    {
+      "id": 2,
+      "name": "Mustari Muhiddin, S.ST",
+      "position": "Direktur",
+      "level": 2
+    },
+    {
+      "id": 3,
+      "name": "Ita Sulfiani",
+      "position": "Bendahara",
+      "level": 3
+    },
+    {
+      "id": 4,
+      "name": "Andi Ardiansyah, S.ST",
+      "position": "Manager SDM dan Operasional",
+      "level": 4,
+      "team": [
+        {
+          "id": 5,
+          "name": "Muh Ashar",
+          "position": "Staff SDM dan Operasional"
+        },
+        {
+          "id": 6,
+          "name": "Ammar Abdullah Dahlan",
+          "position": "Staff SDM dan Operasional"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ainul Yaqin, S.ST",
+      "position": "Manager IT dan Infrastruktur",
+      "level": 4,
+      "team": [
+        {
+          "id": 8,
+          "name": "Fadly Ardiansyah Ahmad, S.Pd",
+          "position": "Staff IT dan Infrastruktur"
+        },
+        {
+          "id": 9,
+          "name": "Muhammad Wahyu",
+          "position": "Staff IT dan Infrastruktur"
+        },
+        {
+          "id": 10,
+          "name": "Fikram Tanda Malika",
+          "position": "Staff IT dan Infrastruktur"
+        }
+      ]
+    }
+  ]
+}
