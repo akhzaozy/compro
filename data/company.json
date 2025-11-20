@@ -1,0 +1,25 @@
+{
+  "name": "CV Laju Bersama Makmur",
+  "tagline": "Empowering Your Digital Transformation",
+  "description": "Kami adalah perusahaan IT dan Telekomunikasi yang berdedikasi menjadi pioneer dalam bidang jasa teknologi informasi yang dapat diandalkan di seluruh wilayah Indonesia, khususnya Indonesia Timur.",
+  "founded": "22 April 2024",
+  "employees": "10+",
+  "locations": ["Makassar, Sulawesi Selatan"],
+  "mission": [
+    "Menciptakan Sumber Daya Manusia (SDM) yang unggul, professional, dan berkompeten demi kemajuan perusahaan.",
+    "Memberikan pelayanan yang terbaik pada klien dengan mengutamakan nilai professional dan kejujuran"
+  ],
+  "vision": "Menjadi perusahaan yang unggul dan amanah, serta selalu mengutamakan nilai kejujuran dalam melayani.",
+  "coreValues": [
+    { "letter": "L", "value": "LUGAS" },
+    { "letter": "A", "value": "AMANAH" },
+    { "letter": "J", "value": "JUJUR" },
+    { "letter": "U", "value": "UNGGUL" }
+  ],
+  "contact": {
+    "address": "Jln. Sejati No. 48, RT 03/RW 07, Kel. Tamalanrea Indah, Kec. Tamalanrea, Makassar, Sulawesi Selatan 90245",
+    "phone": "0821-9231-0646",
+    "email": "cvlajubersamamakmur@gmail.com"
+  },
+  "founder": "Mustari Muhiddin"
+}
