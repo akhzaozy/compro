@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
-// ✅ Route-based lazy loading (dynamic import)
+// lazy loading
 const Home = () => import('../views/Home.vue')
 const About = () => import('../views/About.vue')
 const Services = () => import('../views/Services.vue')
@@ -35,8 +35,8 @@ const router = createRouter({
   routes
 })
 
-// ✅ Intelligent Prefetching:
-// Saat user di Home, kita prefetch About & Services
+// Prefetching
+// Saat user di Home, auto prefetch ke halaman About & Services
 router.afterEach((to) => {
   if (to.name === 'Home') {
     import('../views/About.vue')
